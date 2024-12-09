@@ -1,4 +1,5 @@
-## Designing CPU based on following requirements    
+# CPU Design based on custom requirements
+## Requirements    
     1. Word Size of CPU: 5
     2. ALU Operations: XOR, ADD, ROL
     3. Register Number: 3
